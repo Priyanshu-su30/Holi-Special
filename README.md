@@ -1,6 +1,7 @@
 ## HAPPY HOLI
-It is a bootstrap landing page for holiday season.
+It is a bootstrap landing page for holiday season.  
 
+👉 Live Demo: <a href='https://priyanshu-su30.github.io/Holi-Special/'>Holi Special</a>
 
 ## Description
 This page is designed using bootstrap, HTML, CSS and JavaScript. It is a userfriendly page with a snowfall effect and colourfull background as a part of festival of colors i.e. HOLI.
